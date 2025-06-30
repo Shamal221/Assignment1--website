@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conjuring</title>
+    
+    <style>
+        body{
+            background-color:rgb(202, 125, 125) ;
+        }
+        h1{
+            color:rgb(17, 13, 13);
+            text-align: center;
+            text-shadow: 2px 2px 3px rgb(233, 228, 228), 3px 3px 1px rgb(29, 29, 90);
+            font-size: 50px;
+        }
+        .paraOne{
+            
+            color: black,(17 1, 12, 0.448);
+        }
+        .SteveDitko{
+            color: rgb(14, 4, 4);
+        }
+        .GenInfo{
+            color: rgb(25, 20, 41);
+        }
+        .historyDiv{
+            background-color:rgb(219, 116, 116);
+        }
+        img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div><a href="movies.html">Movies</a></div>
+        <div><a href="contact.html">Contact</a></div>
+    </nav>
+    <h1>Conjuring</h1>
+    <img src="./img.png" alt="header image" style="width: 50%; height: 300px;">
+    <h1>History</h1>
+
+
+<div class="historyDiv">
+    <p class="paraOne">The Conjuring is a 2013 American supernatural horror film
+directed by James Wan and written by Chad Hayes and Carey W. Hayes.It is the
+inaugural film in The Conjuring Universe franchise.Patrick Wilson and Vera Farmiga
+star as Ed and Lorraine Warren, paranormal investigators and authors associated 
+with prominent cases of haunting. Their purportedly real-life reports inspired
+The Amityville Horror story and the associated film franchise.The Warrens come to 
+the assistance of the Perron family, who experienced increasingly disturbing events
+in their newly occupied farmhouse in Rhode Island in 1971.
+</p>
+<p class="SteveDitko">Producer Tony DeRosa-Grund wrote the original treatment and 
+titled the project The Conjuring.For nearly 14 years, he tried to get the movie
+made without any success. He landed a deal to make the movie at Gold Circle Films,
+the production company behind The Haunting in Connecticut, but a contract could not
+be finalized and the deal was dropped.</p>
+<p class="GenInfo">Considered one of the most popular and commercially successful
+superheroes, he has been featured in comic books, television shows, films,
+video games, novels, and plays.</p>  
+</div>
+</body>
+</html>
